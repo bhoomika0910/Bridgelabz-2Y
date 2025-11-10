@@ -15,6 +15,7 @@
 
 📅 August 11–13, 2025
      ⚙️ Set up Git Bash and learned how to use it for version control.
+     
      🔍 Understood the difference between Git, Git Bash, and GitHub.
      🧩 Practiced basic Git commands — init, add, commit, push, clone, etc.
      📂 Learned best practices for maintaining repositories.
