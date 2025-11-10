@@ -97,4 +97,4 @@
 
 
 ✨ Summary:
-From mastering Git basics 🧭 to implementing real-world Java + JDBC projects 💼, this journey built a solid foundation in Java programming, OOPs, Collections, and Database Connectivity — paving the way toward advanced Java and backend development 🚀.
+From mastering Git basics 🧭 to implementing real-world Java 💼, this journey built a solid foundation in Java programming, OOPs, Collections, and Database Connectivity — paving the way toward advanced Java and backend development 🚀.
