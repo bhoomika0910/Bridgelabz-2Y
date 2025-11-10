@@ -2,7 +2,7 @@
 # Bridgelabz-2415500132-Training
 
 ### Java Learning Log
-**| Branch Name | Description |
+| Branch Name | Description |
 |--------------|-------------|
 | coreJava | Covers Java fundamentals — syntax, data types, loops, arrays,strings and basic logic building |
 | oops | Focuses on Object-Oriented Programming concepts — classes, inheritance, polymorphism, abstraction, encapsulation |
@@ -11,7 +11,7 @@
 | functional-interface | Covers Functional Interfaces, Default/Static methods, and Lambda usage |
 | error-and-exception | Focuses on Exception Handling, including custom and built-in exceptions |
 | lambda-expression | Demonstrates real-world examples using Lambda Expressions and functional-style coding |
-*
+
 
 📅 August 11–13, 2025
      ⚙️ Set up Git Bash and learned how to use it for version control.
